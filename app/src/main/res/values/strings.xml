@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NotificationTest</string>
+    <string name="notification_channel_id">increment_counter</string>
+    <string name="notification_action_button_text">Increment</string>
+    <string name="notification_content_text">The count is</string>
+    <string name="notification_description">Tutorial from Philipp Lackner</string>
+    <string name="snackbar_text">Please grant Notification permission from App Settings</string>
+    <string name="button_text">Show Notification</string>
+</resources>
